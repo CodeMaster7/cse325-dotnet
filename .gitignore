@@ -1,0 +1,48 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+**/packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.deps.json
+*.runtimeconfig.json
+*.staticwebassets.endpoints.json
+**/Debug/
+**/Release/
+
+# User-specific / local
+*.rsuser
+*.DotSettings.user
+appsettings.*.local.json
+secrets.json
+
+# Node (if present at repo root)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cursor / VS Code (optional local settings — uncomment if you don't want to share)
+# .vscode/

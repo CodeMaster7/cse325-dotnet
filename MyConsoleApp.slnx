@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Week 1/">
+    <Project Path="Week 1/ContosoPizza/ContosoPizza.csproj" />
+  </Folder>
+  <Folder Name="/Week 1/FilesAndDirectories/">
+    <Project Path="Week 1/FilesAndDirectories/mslearn-dotnet-files/mslearn-dotnet-files.csproj" />
+  </Folder>
+  <Folder Name="/Week 1/Introducing .NET/">
+    <Project Path="Week 1/Introducing .NET/MyConsoleApp/MyConsoleApp.csproj" />
+  </Folder>
+</Solution>
