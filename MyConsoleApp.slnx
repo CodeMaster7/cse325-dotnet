@@ -8,4 +8,7 @@
   <Folder Name="/Week 1/Introducing .NET/">
     <Project Path="Week 1/Introducing .NET/MyConsoleApp/MyConsoleApp.csproj" />
   </Folder>
+  <Folder Name="/Week 2/">
+    <Project Path="Week 2/MvcMovie/MvcMovie.csproj" />
+  </Folder>
 </Solution>
