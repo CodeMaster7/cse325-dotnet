@@ -11,4 +11,7 @@
   <Folder Name="/Week 2/">
     <Project Path="Week 2/MvcMovie/MvcMovie.csproj" />
   </Folder>
+  <Folder Name="/Week 3/">
+    <Project Path="Week 3/BlazorApp/BlazorApp.csproj" />
+  </Folder>
 </Solution>
