@@ -15,4 +15,8 @@
     <Project Path="Week 3/BlazingPizza/BlazingPizza.csproj" />
     <Project Path="Week 3/BlazorApp/BlazorApp.csproj" />
   </Folder>
+  <Folder Name="/Week 4/">
+    <Project Path="Week 4/FirstClassLibrary/FirstClassLibrary.csproj" />
+    <Project Path="Week 4/MyBlazorApp/MyBlazorApp.csproj" />
+  </Folder>
 </Solution>
